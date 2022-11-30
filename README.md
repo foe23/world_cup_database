@@ -1,2 +1,2 @@
 # world_cup_database
-# FreeCodeCamp excercise 2/5
+FreeCodeCamp excercise 2/5
